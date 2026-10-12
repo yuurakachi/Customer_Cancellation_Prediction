@@ -22,4 +22,5 @@ Estos valores deben ser proporcionados directamente por los usuarios en su entor
 **Por razones de la capacidad de almacenamiento disponible en github, el modelo.pkl se proporciona comprimido.zip.**
 Este modelo debe extraido y ubicado en: ".\streamlit\backend\randomforest_model.pkl"
 
-
+## Presentación
+📄 [Ver presentación (PDF)](Insight%20Engineers%20Pres%20-%20TCA.pdf)
